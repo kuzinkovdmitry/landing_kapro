@@ -1,0 +1,234 @@
+@media screen and (max-width: 991px) {
+    
+    #logo{
+        width: 25%;
+        margin-left: 37%;
+    }
+    
+    #main-2{
+        height: 100px;
+        margin-top: -50px;
+    }
+    
+    #main-2 p{
+        font-size: 13pt;
+    }
+
+    #call_back_a{
+        font-size: 16pt;
+        padding: -1px 17px;
+    }
+
+    #call_back_b{
+        font-size: 16pt;
+        padding: 7px 17px;
+    }
+    
+    #down_1{
+        margin-top: 25px;
+    }
+    
+    #main-3{
+        width: 90%;
+        margin-top: 60px;
+        margin-left: 5%;
+    }
+
+    #m3_h1{
+        font-size: 1.8em;
+        margin-top: 15px;
+    }
+    
+    #pro{
+        font-size: 16pt;
+    }
+
+    #consul{
+        font-size: 16pt;
+        padding: 7px 17px;
+    }
+         
+    .s2_child2{
+        margin-bottom: 50px;
+    }
+    
+    #s2_t2{
+        width: 82%;
+    }
+    
+    #tov_block{
+        width: 60%;
+        margin-left: 21%;
+        margin-bottom: 25px;
+    }
+    
+    #section_howbuy{
+        padding-bottom: 30px;
+    }
+    
+    #s4_t2{
+        width: 60%;
+    }
+    
+    #logo_2{
+        width: 25%;
+        margin-left: 40%;
+        margin-top: 35px;
+    }
+    
+    #foot_1{
+        width: 50%;
+        margin-left: 27%;
+        margin-top: 30px;
+    }
+    
+    #foot_last_block{
+        margin-left: -34%;
+        padding-bottom: 20px;
+        margin-top: 10px;
+    }
+    
+    #b1_image{
+        margin-top: 15px;
+    }
+    
+    #b1_screen{
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+    
+    #b2_screen{
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+    
+    .modal_form_1{
+        margin-top: 1650px
+    }
+    
+    .modal_form_2{
+        margin-top: 2200px
+    }
+    
+    .modal_form_3{
+        margin-top: 2750px
+    }
+    
+    .modal_form_4{
+        margin-top: 3250px
+    }
+    
+    .modal_form_order{
+        margin-top: -100px;
+    }
+    
+    #div_d_2{
+        margin-top: 0px;
+    }
+    
+}
+
+@media screen and (min-width: 992px) and (max-width: 1094px) {
+    
+    #tov_block{
+        width: 40%;
+        margin-left: 7.5%;
+        margin-bottom: 25px;
+    }
+    
+    #foot_1{
+        margin-top: 40px;
+    }
+    
+    #b2_screen{
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+    
+    .modal_form_1, .modal_form_2{
+        margin-top: 1150px
+    }
+    
+    .modal_form_3, .modal_form_4{
+        margin-top: 1670px
+    }
+    
+    #div_d_2{
+        margin-top: 0px;
+    }
+    
+}
+
+@media screen and (min-width: 1095px) and (max-width: 1315px) {
+    
+    #b2_screen{
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+    
+}
+
+@media screen and (min-width: 1316px) {
+    
+    .table_2{
+        margin-left: -15px;
+    }
+         
+}
+
+@media screen and (min-width: 1360px) and (max-width: 1599px) {
+    
+    #b4_image{
+        width: 33%;
+    }
+         
+}
+
+@media screen and (min-width: 1600px) and (max-width: 1799px) {
+    
+    #b3_image{
+        width: 35%;
+    }
+    
+    #b4_image{
+        width: 30%;
+    }
+         
+}
+
+
+@media screen and (min-width: 1800px) {
+    
+    #logo{
+        width: 40%;
+        max-width: 80%;
+        max-height: 100%;
+        margin-left: 37%;
+    }
+    
+    #logo_2{
+        width: 40%;
+        max-width: 80%;
+        margin-left: 37%;
+    }
+    
+    #b1_image{
+        width: 30%;
+    }
+    
+    #b3_image{
+        width: 28%;
+    }
+    
+    #b4_image{
+        width: 28%;
+    }
+    
+    #ord_prod{
+        width: 28%;
+        margin-left: 61%;  
+}
